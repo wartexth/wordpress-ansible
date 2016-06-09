@@ -1,0 +1,8 @@
+[webserver]
+10.165.16.103 ansible_user=vagrant ansible_become_pass=vagrant
+
+[logserver]
+10.165.16.180 ansible_user=vagrant ansible_become_pass=vagrant
+
+[moniserv]
+10.165.16.181 ansible_user=vagrant ansible_become_pass=vagrant
